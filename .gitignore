@@ -1,5 +1,5 @@
 src/main/java/model/dao/DBAccounts.java
-# Ignore DB Username and DB password
+# Ignore DB username and DB password
 tomcat.8080
 target
 

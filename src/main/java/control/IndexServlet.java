@@ -15,7 +15,7 @@ public class IndexServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
       
     	resp.getWriter().
-    	append("Git -demo: Kokeile endpointteja /listaa-asiakkaat ja /lisaa-uusiasiakas" +
+    	append("Git -demo: Kokeile endpointteja /listaa-asiakkaat ja /lisaa-uusiasiakas ja " +
     	"/poista-asiakas?asiakasid=...");
     }
 }
